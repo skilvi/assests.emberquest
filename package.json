@@ -1,0 +1,11 @@
+{
+  "name": "emberquest-assets",
+  "version": "1.0.0",
+  "description": "Static asset server for Emberquest",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
